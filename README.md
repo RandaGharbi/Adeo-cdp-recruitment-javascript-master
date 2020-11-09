@@ -1,14 +1,14 @@
 # Javascript developer test
 
 ## How To Execute The Following Code
-- step 1:
- * yarn or npm i
-- step 2:( test filter function )
- * node app --filter=ry
-- step 3:( test count function )
- * node app --count
-- step 4 : ( run test ) :
- * yarn test
+### step 1:
+ * `yarn or npm i`
+### step 2:( test filter function )
+ * `node app --filter=ry`
+### step 3:( test count function )
+ * `node app --count`
+### step 4 : ( run test ) :
+ * `yarn test`
 
 ## Filter
 
